@@ -119,6 +119,7 @@ set (MINOTAUR_SOURCES
      base/Relaxation.cpp 
      base/ReliabilityBrancher.cpp 
      base/Reader.cpp 
+     base/RoundingHeur.cpp 
      base/SamplingHeur.cpp
      base/SecantMod.cpp 
      base/SimpleCutMan.cpp 
@@ -263,6 +264,7 @@ set (MINOTAUR_HEADERS
      base/RCHandler.h
      base/Relaxation.h
      base/ReliabilityBrancher.h
+     base/RoundingHeur.h 
      base/SecantMod.h
      base/SimpleCutMan.h 
      base/SimpleTransformer.h
