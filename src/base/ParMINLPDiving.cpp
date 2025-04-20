@@ -7,7 +7,7 @@
 /**
  * \file ParMINLPDiving.cpp
  * \brief Define the ParMINLPDiving class for diving heuristics for MINLPs.
- * This is a parallel extension of MINLPDiving heuristic in MINOTAUR.
+ * This is a parallel extension of the MINLPDiving heuristic in MINOTAUR.
  * \author Prashant Palkar, IIT Bombay
  *
  * Implements the class ParMINLPDiving.
